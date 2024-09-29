@@ -1,3 +1,4 @@
+// Священко Станіслав Володимирович 123 група Лабораторна 1.4
 #include <iostream>
 #include <stdio.h>
 int main()
